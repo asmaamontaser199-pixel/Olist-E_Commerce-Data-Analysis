@@ -30,5 +30,4 @@ View Project Portfolio & Visuals on Maven Analytics: https://mavenshowcase.com/p
 
 ---
 
-## Portfolio Deliverables
-📁 **[Download Full Analytics Report (PDF)](./Olist%20E-Commerce%20Reort%20Asmaa_2.pdf)**
+📁 [Download Full Analytics Report (PDF)](./Olist%20E-Commerce%20Reort%20Asmaa.pdf)
