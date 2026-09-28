@@ -28,6 +28,8 @@ View Project Portfolio & Visuals on Maven Analytics: https://mavenshowcase.com/p
 2. **Dispatch SLAs:** Enforce stricter seller dispatch SLAs in high-delay zones to protect customer satisfaction ratings.
 3. **Logistics-First Strategy:** Focus capital on dispatch speed rather than shipping subsidies, as AI analysis proves freight costs have zero impact on customer review scores.
 
+   🔗 **Live Showcase & Visual Report on Maven Analytics:** [View Project on Maven Showcase](https://mavenshowcase.com/project/57868)
+
 ---
 
 📁 [Download Full Analytics Report (PDF)](./Olist%20E-Commerce%20Reort%20Asmaa.pdf)
