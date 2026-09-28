@@ -3,6 +3,7 @@
 ## Executive Summary
 This project presents an end-to-end data analytics solution for Olist, the largest E-commerce department store marketplace in Brazil. By analyzing multi-thousand order records spanning across 2016 to 2018, the dashboard delivers actionable executive insights into regional sales distributions, delivery SLAs, and key satisfaction drivers using AI-powered visuals.
 
+View Project Portfolio & Visuals on Maven Analytics: https://mavenshowcase.com/project/57857
 ---
 
 ## Technical Architecture & Tools
